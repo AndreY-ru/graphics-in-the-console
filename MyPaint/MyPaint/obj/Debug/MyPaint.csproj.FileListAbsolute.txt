@@ -1,0 +1,7 @@
+C:\Users\Andre\source\repos\MyPaint\MyPaint\bin\Debug\MyPaint.exe.config
+C:\Users\Andre\source\repos\MyPaint\MyPaint\bin\Debug\MyPaint.exe
+C:\Users\Andre\source\repos\MyPaint\MyPaint\bin\Debug\MyPaint.pdb
+C:\Users\Andre\source\repos\MyPaint\MyPaint\obj\Debug\MyPaint.csproj.AssemblyReference.cache
+C:\Users\Andre\source\repos\MyPaint\MyPaint\obj\Debug\MyPaint.csproj.CoreCompileInputs.cache
+C:\Users\Andre\source\repos\MyPaint\MyPaint\obj\Debug\MyPaint.exe
+C:\Users\Andre\source\repos\MyPaint\MyPaint\obj\Debug\MyPaint.pdb
